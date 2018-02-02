@@ -9,5 +9,6 @@ This is to absorb the dust made by my cnc-mill while milling pcb's.
 key goals where:
 - Fit on a IKEA glass [Korken](http://www.ikea.com/de/de/catalog/products/50213546)
 - running with 12V
-- using cyclone technology to avoid the need of an anther.
+- using cyclone technology to avoid the need of an anther
 - 3/4" coupling
+- Impeller based on [this Thing](https://www.thingiverse.com/thing:590416)
